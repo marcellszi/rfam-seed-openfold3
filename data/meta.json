@@ -1,0 +1,8 @@
+{
+  "rfam_release": "15.1",
+  "generated": "2026-10-24T00:21:58Z",
+  "num_families": 4227,
+  "num_seed_sequences": 109390,
+  "source": "https://ftp.ebi.ac.uk/pub/databases/Rfam/15.1",
+  "pdb_source": "RNA3DB 2026-10-15"
+}

@@ -1,0 +1,1 @@
+{"acc":"RF01785","id":"blv_FSE","description":"ribosomal frameshift site","type":"Cis-reg; frameshift_element;","columns":27,"gc":{"SS_cons":"<<<<<<_____AAA>>>>>>::::aaa","RF":"GGGGGGACuUAGCGCCCCCCAAAuCaU"},"seqs":[{"n":"M10987.1/1604-1630","s":"GGGGGGACUUAGCGCCCCCCAAACCGU"},{"n":"D00647.1/1812-1838","s":"GGGGGGACCUAGCGCCCCCCAAAUCAU"}]}
